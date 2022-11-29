@@ -1,1 +1,3 @@
-# .abhi
+## "```.abhi```" - My attempt at building a version control system
+
+This project has begun in a 36 hour hackathon. My sole objective of building this is to better understand version control. I'm not trying to make a VCS that will replace everything that already exists - in fact it will only try to implement the **most** basic features. I will be referring to (Eric Sink's blog)[https://ericsink.com/scm/source_control.html] in this effort.
