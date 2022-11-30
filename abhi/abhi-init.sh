@@ -5,6 +5,8 @@ make_repo(){
     mkdir "$dir/.abhi/refs"
     mkdir "$dir/.abhi/refs/tags"
     mkdir "$dir/.abhi/snaps"
+    touch "$dir/.abhi/snaps/.count"
+    echo 0 >> "$dir/.abhi/snaps/.count"
 }
 
 dir="$1"
