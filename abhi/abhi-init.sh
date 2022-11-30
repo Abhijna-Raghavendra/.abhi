@@ -23,7 +23,7 @@ else
             echo "Error: Cannot initialize $dir as an abhi directory"
         else
             make_repo
-            echo "Succesfully initialised $dir as empty git repository"
+            echo "Succesfully initialised $dir as empty abhi repository"
         fi
     else
         echo "Error: Directory $dir does not exist."
